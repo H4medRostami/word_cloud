@@ -167,4 +167,7 @@ cython_debug/
 .idea/vcs.xml
 .idea/word_cloud.iml
 text.txt
-word_cloud.ipynb
+
+# Notebook Checkpoints
+.ipynb_checkpoints/
+
